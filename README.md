@@ -27,6 +27,7 @@ https://i.postimg.cc/wjsXgr4n/4.png
 
 - Add product sliders with JavaScript
 - Add Animations
+- Responsive
 
 ## Getting Started
 
